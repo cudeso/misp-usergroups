@@ -58,7 +58,22 @@
                 {
                         "country": "fr"
                 }
-        }          
+        }
+        ,
+        {
+                "name": "ItaliaMisp",
+                "meta-category": "public",
+                "description": "Italian speaking MISP instance dedicated to OSINT",
+                "contact":
+                {
+                        "twitter": "@ItaliaMisp",
+                        "website": "https://twitter.com/ItaliaMisp"
+                },
+                "geometry":
+                {
+                        "country": "it"
+                }
+        }
   ]
 }
 

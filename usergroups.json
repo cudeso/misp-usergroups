@@ -1,0 +1,64 @@
+{
+  "category": "usergroups",
+  "description": "MISP user groups",
+  "values": [
+        {
+                "name": "belgoMISP",
+                "meta-category": "public",
+                "description": "Belgian MISP Users",
+                "contact":
+                {
+                        "twitter": "@belgoMISP",
+                        "website": "https://twitter.com/belgomisp"
+                },
+                "geometry":
+                {
+                        "country": "be"
+                }
+        },
+        {
+                "name": "nederMISP",
+                "meta-category": "public",
+                "description": "De Nederlandse MISP-gebruikersgroep",
+                "contact":
+                {
+                        "twitter": "@nederMISP",
+                        "website": "https://twitter.com/nederMISP"
+                },
+                "geometry":
+                {
+                        "country": "nl"
+                }
+        },             
+        {
+                "name": "us4misp",
+                "meta-category": "public",
+                "description": "MISP USA Users and Friends",
+                "contact":
+                {
+                        "twitter": "@us4misp",
+                        "website": "https://twitter.com/us4misp"
+                },
+                "geometry":
+                {
+                        "country": "us"
+                }
+        }
+,             
+        {
+                "name": "francomisp",
+                "meta-category": "public",
+                "description": "French speaking MISP instance dedicated to OSINT",
+                "contact":
+                {
+                        "twitter": "@francomisp",
+                        "website": "https://twitter.com/francomisp"
+                },
+                "geometry":
+                {
+                        "country": "fr"
+                }
+        }          
+  ]
+}
+

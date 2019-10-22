@@ -14,6 +14,14 @@ Send a PR if you want your group added.
 | francomisp | French speaking MISP instance dedicated to OSINT | fr | @francomisp |
 | ItaliaMisp | Italian speaking MISP instance dedicated to OSINT | it | @ItaliaMisp |
 
+# Meetings
+
+Some suggestions for user group meetings
+* Discuss usage of MISP outside of traditional threat intelligence cases
+* Custom taxonomies and tagging
+* Internal MISP modules
+* Air-gapped MISP systems
+
 # Todo
 * Autogenerate a world map based on country code
 

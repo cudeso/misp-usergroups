@@ -12,6 +12,7 @@ Send a PR if you want your group added.
 | nederMISP | De Nederlandse MISP-gebruikersgroep | nl | @nederMISP |
 | us4misp | MISP USA Users and Friends | us | @us4misp |
 | francomisp | French speaking MISP instance dedicated to OSINT | fr | @francomisp |
+| ItaliaMisp | Italian speaking MISP instance dedicated to OSINT | it | @ItaliaMisp |
 
 # Todo
 * Autogenerate a world map based on country code

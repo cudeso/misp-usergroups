@@ -43,8 +43,7 @@
                 {
                         "country": "us"
                 }
-        }
-,             
+        },             
         {
                 "name": "francomisp",
                 "meta-category": "public",
@@ -58,8 +57,7 @@
                 {
                         "country": "fr"
                 }
-        }
-        ,
+        },
         {
                 "name": "ItaliaMisp",
                 "meta-category": "public",
@@ -72,6 +70,20 @@
                 "geometry":
                 {
                         "country": "it"
+                }
+        },
+        {
+                "name": "SwedishMISP",
+                "meta-category": "public",
+                "description": "The Swedish MISP community",
+                "contact":
+                {
+                        "twitter": "@SwedishMISP",
+                        "website": "https://twitter.com/SwedishMISP"
+                },
+                "geometry":
+                {
+                        "country": "se"
                 }
         }
   ]

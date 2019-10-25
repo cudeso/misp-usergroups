@@ -13,6 +13,7 @@ Send a PR if you want your group added.
 | us4misp | MISP USA Users and Friends | us | @us4misp |
 | francomisp | French speaking MISP instance dedicated to OSINT | fr | @francomisp |
 | ItaliaMisp | Italian speaking MISP instance dedicated to OSINT | it | @ItaliaMisp |
+| SwedishMISP | The Swedish MISP community | se | @SwedishMISP |
 
 # Meetings
 
@@ -21,6 +22,7 @@ Some suggestions for user group meetings
 * Custom taxonomies and tagging
 * Internal MISP modules
 * Air-gapped MISP systems
+* ...
 
 # Todo
 * Autogenerate a world map based on country code

@@ -41,4 +41,6 @@ Submit a pull request with your proposal for presentation or contact us via [Twi
 
 | Name | Title | Description   |
 |------|-------|---------------|
-| X    | Intro | Just an Intro |
+| Andras Iklody / Alexandre Dulaunoy | MISP Project Future | What's next in the MISP Project? |
+| Nathalie Van Raemdonck | Threat Sharing & Diplomacy |
+| Koen Van Impe | BelgoMISP | What's BelgoMISP about? |

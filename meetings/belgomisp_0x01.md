@@ -11,7 +11,7 @@ Note: The event only takes place if there are sufficiently enough suggested topi
 ## Signup to attend
 
 * Audience limited to approx. 35
-* Use the [Meetup page](https://www.meetup.com/BelgoMISP/events/266284763/s)
+* Use the [Meetup page](https://www.meetup.com/BelgoMISP/events/266284763/)
 
 ## Guidelines and Topics
 

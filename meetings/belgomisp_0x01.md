@@ -31,6 +31,7 @@ One of our key goals is building a trusted MISP user community in Belgium.
 
 * Discuss usage of MISP outside of traditional threat intelligence cases
 * Custom taxonomies and tagging
+* Dealing with threat intelligence (sharing, processing, ...) in general
 * Internal MISP modules
 * Air-gapped MISP systems
 * ...

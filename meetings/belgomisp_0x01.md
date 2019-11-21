@@ -6,6 +6,8 @@ When? **13-Dec-2019**, from 5PM until 8PM (Brussels time)
 
 Where? **NVISO Office**, Guimardstraat 8, Belgium
 
+There will be water and coffee. No food.
+
 Note: The event only takes place if there are sufficiently enough suggested topics.
 
 ## Signup to attend

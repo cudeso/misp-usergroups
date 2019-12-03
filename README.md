@@ -1,6 +1,6 @@
 # misp-usergroups
 
-During the [MISP Summit 0x05](https://2019.hack.lu/misp-summit/) a presentation from [RichieB2B](https://github.com/RichieB2B) mentioned [@nederMISP](https://twitter.com/nedermisp). This inspired me to start a similar group for Belgium [@belgoMISP](https://twitter.com/belgomisp). And soemone started a group for the US [@us4misp](https://twitter.com/us4misp).
+During the [MISP Summit 0x05](https://2019.hack.lu/misp-summit/) a presentation from [RichieB2B](https://github.com/RichieB2B) mentioned [@nederMISP](https://twitter.com/nedermisp). This inspired me to start a similar group for Belgium [@belgoMISP](https://twitter.com/belgomisp). And someone started a group for the US [@us4misp](https://twitter.com/us4misp).
 
 This repository was then build to *list the MISP user groups worldwide*. In the good old MISP tradition, all is stored in JSON. 
 

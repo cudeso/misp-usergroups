@@ -12,7 +12,6 @@ Note: The event only takes place if there are sufficiently enough suggested topi
 
 ## Signup to attend
 
-* Audience limited to approx. 35
 * Use the [Meetup page](https://www.meetup.com/BelgoMISP/events/266284763/)
 
 ## Guidelines and Topics
@@ -38,14 +37,15 @@ One of our key goals is building a trusted MISP user community in Belgium.
 * Air-gapped MISP systems
 * ...
 
-## Call for presentations
+## Agenda
 
 Submit a pull request with your proposal for presentation or contact us via [Twitter](https://twitter.com/belgomisp).
 
 | Name | Title | Description   |
 |------|-------|---------------|
-| Andras Iklody / Alexandre Dulaunoy | MISP Project Future | What's next in the MISP Project? |
+| Koen Van Impe | What's BelgoMISP about? | Building a trusted MISP user community in Belgium |
+| Borce Stojkovski | UX | An interactive session to solicit user feedback from participants and uncover the strengths and weaknesses of MISP  |
+| Break | | Coffee and water will be provided |
+| Andras Iklody / Alexandre Dulaunoy | MISP Project Future | MISP AMA |
 | Nathalie Van Raemdonck | How are states taking up their international infosec role? |
-| Borce Stojkovski | UX | An interactive session to solicit user feedback from participants and uncover the strengths and weaknesses of MISP (30') |
-| Koen Van Impe | BelgoMISP | What's BelgoMISP about? |
-| <Public> | Open discussion on MISP usage and integrations | Slot where everyone can share use cases or integrations which were recently done |
+| All | Open discussion on MISP usage and integrations | Slot where everyone can share use cases or integrations which were recently done |

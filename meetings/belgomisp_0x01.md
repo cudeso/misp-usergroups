@@ -21,7 +21,8 @@ Note: The event only takes place if there are sufficiently enough suggested topi
 One of our key goals is building a trusted MISP user community in Belgium.
 
 * Talks are [TLP:WHITE](https://www.first.org/tlp/) unless otherwise specified;
-* Talks will not be recorded. 
+* Talks will not
+*  be recorded. 
 
 ### Guidelines
 
@@ -46,6 +47,6 @@ Submit a pull request with your proposal for presentation or contact us via [Twi
 | Koen Van Impe | What's BelgoMISP about? | Building a trusted MISP user community in Belgium |
 | Borce Stojkovski | UX | An interactive session to solicit user feedback from participants and uncover the strengths and weaknesses of MISP  |
 | Break | | Coffee and water will be provided |
-| Andras Iklody / Alexandre Dulaunoy | MISP Project Future | MISP AMA |
+| Andras Iklody / Alexandre Dulaunoy | MISP AMA |  |
 | Nathalie Van Raemdonck | How are states taking up their international infosec role? |
 | All | Open discussion on MISP usage and integrations | Slot where everyone can share use cases or integrations which were recently done |

@@ -45,9 +45,9 @@ Submit a pull request with your proposal for presentation or contact us via [Twi
 
 | Name | Title | Description   |
 |------|-------|---------------|
-| Koen Van Impe | What's BelgoMISP about? | Building a trusted MISP user community in Belgium |
-| Borce Stojkovski | UX | An interactive session to solicit user feedback from participants and uncover the strengths and weaknesses of MISP  |
+| Koen Van Impe | [What's BelgoMISP about?](0x01_BelgoMISP_Introduction.pptx.pdf) | Building a trusted MISP user community in Belgium |
+| Borce Stojkovski | [UX](0x01_Stojkovski-UX_of_MISP-BelgoMISP.pdf) | An interactive session to solicit user feedback from participants and uncover the strengths and weaknesses of MISP  |
 | *Break* | | *Coffee and water are provided* |
-| Andras Iklody / Alexandre Dulaunoy | MISP AMA |  |
-| Nathalie Van Raemdonck | How are states taking up their international infosec role? | With digital tools penetrating society increasingly, the risks of an insecure information space are becoming more impactful every day. Consequently, ICT security is becoming more a business of states, who are pushing for more international cooperation on securing 'cyberspace'. What processes are at play at the international level, what are future pitfalls to this evolution and what impact do these efforts have for incident responders? |
+| Andras Iklody | [MISP AMA](0x01_MISP_Features_x.1-belgomisp.pdf) |  |
+| Nathalie Van Raemdonck | [How are states taking up their international infosec role?](0x01_Cyber_Norms_Building-NCS3.pptx.pdf) | With digital tools penetrating society increasingly, the risks of an insecure information space are becoming more impactful every day. Consequently, ICT security is becoming more a business of states, who are pushing for more international cooperation on securing 'cyberspace'. What processes are at play at the international level, what are future pitfalls to this evolution and what impact do these efforts have for incident responders? |
 | All | Open discussion on MISP usage and integrations | Slot where everyone can share use cases or integrations which were recently done. Topics (not limited) New **taxonomies** ; install MISP on **air-gapped systems** ; creating **threat reports** out of MISP ; ...| 

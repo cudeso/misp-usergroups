@@ -14,6 +14,7 @@ Send a PR if you want your group added.
 | francomisp | French speaking MISP instance dedicated to OSINT | fr | @francomisp |
 | ItaliaMisp | Italian speaking MISP instance dedicated to OSINT | it | @ItaliaMisp |
 | SwedishMISP | The Swedish MISP community | se | @SwedishMISP |
+| NorwegianMISP | The Norwegian MISP community | no | @NorwegianMISP |
 
 # Meetings
 

@@ -85,7 +85,22 @@
                 {
                         "country": "se"
                 }
+        },
+	    {
+                "name": "NorwegianMISP",
+                "meta-category": "public",
+                "description": "The Norwegian MISP community",
+                "contact":
+                {
+                        "twitter": "@NorwegianMISP",
+                        "website": "https://twitter.com/NorwegianMISP"
+                },
+                "geometry":
+                {
+                        "country": "no"
+                }
         }
+		
   ]
 }
 

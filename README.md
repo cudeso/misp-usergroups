@@ -15,6 +15,7 @@ Send a PR if you want your group added.
 | ItaliaMisp | Italian speaking MISP instance dedicated to OSINT | it | @ItaliaMisp |
 | SwedishMISP | The Swedish MISP community | se | @SwedishMISP |
 | NorwegianMISP | The Norwegian MISP community | no | @NorwegianMISP |
+| DanishMISP | The Danish MISP User Group | no | @danishmisp |
 
 # Meetings
 

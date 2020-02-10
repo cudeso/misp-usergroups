@@ -99,6 +99,25 @@
                 {
                         "country": "no"
                 }
+        },
+        {
+                "name": "DanishMISP",
+                "meta-category": "public",
+                "description": "The Danish MISP User Group",
+                "contact":
+                {
+                        "twitter": "@danishmisp",
+                        "website": "https://twitter.com/danishmisp"
+                },
+                "geometry":
+                {
+                        "country": "no"
+                },
+                "services":
+                {
+                        "feed": "https://dk.ecrimelabs.net/users/login",
+                        "web": "https://www.ecrimelabs.com/danish-misp-user-group"
+                }
         }
 		
   ]

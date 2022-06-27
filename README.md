@@ -16,6 +16,7 @@ Send a PR if you want your group added.
 | SwedishMISP | The Swedish MISP community | se | @SwedishMISP |
 | NorwegianMISP | The Norwegian MISP community | no | @NorwegianMISP |
 | DanishMISP | The Danish MISP User Group | dk | @danishmisp |
+| auMISP | Australian MISP User Group | au | @auMISP |
 
 # Meetings
 

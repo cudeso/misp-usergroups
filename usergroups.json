@@ -118,6 +118,20 @@
                         "feed": "https://dk.ecrimelabs.net/users/login",
                         "web": "https://www.ecrimelabs.com/danish-misp-user-group"
                 }
+        },
+	{
+                "name": "auMISP",
+                "meta-category": "public",
+                "description": "Australian MISP User Group",
+                "contact":
+                {
+                        "twitter": "@auMISP",
+                        "website": "https://github.com/auMISP/user_group"
+                },
+                "geometry":
+                {
+                        "country": "au"
+                }
         }
 		
   ]
